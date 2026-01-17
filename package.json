@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "scripts": {
+  "start": "node index.js"
+}
   "type": "commonjs",
   "dependencies": {
     "discord.js": "^14.25.1"
